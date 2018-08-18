@@ -1,4 +1,4 @@
-# Keyboard-Project
+# Custom DZ60 Keyboard Project
 https://docs.qmk.fm/#/README
 
 https://config.qmk.fm/#/dz60/LAYOUT
